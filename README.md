@@ -8,10 +8,10 @@ We didn't use Github for version control and the process images are in the Googl
 Soda Squad
 
 ## Team Members
-Chelsea Joe
-Diana (Yaming) Xu
-Flora (Jiaqi) Gan
-Kevin (Kaihao) Tian
+- Chelsea Joe
+- Diana (Yaming) Xu
+- Flora (Jiaqi) Gan
+- Kevin (Kaihao) Tian
 
 ## Project Title:
 SodaVerse
